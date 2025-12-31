@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-stack developer with 5+ years of experience in web technologies.<br>⚛️ Expertise in ReactJS, Next.js, Vue, React Native, and ElectronJS for frontend development.<br>🛠️ Skilled in backend frameworks like Laravel, Express, Nest, and Fastify.<br>🗄️ Experienced in databases including MySQL, PostgreSQL, Redis, and MongoDB , ScyllaDB , Cassandra.<br>🚀 Passionate about creating high-performance, scalable applications across the full stack.
+👨‍💻 Database Expert & Full-stack developer with 5+ years of experience in web technologies.<br>⚛️ Expertise in ReactJS, Next.js, Vue, React Native, and ElectronJS for frontend development.<br>🛠️ Skilled in backend frameworks like Laravel, Express, Nest, and Fastify.<br>🗄️ Experienced in databases including MySQL, PostgreSQL, Redis, and MongoDB , ScyllaDB , Cassandra.<br>🚀 Passionate about creating high-performance, scalable applications across the full stack.
 
 
 ## 🌐 Socials:
